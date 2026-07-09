@@ -9,3 +9,7 @@
 [node name="Icon" type="Sprite2D" parent="." unique_id=1572901020]
 position = Vector2(-2, 13)
 texture = ExtResource("1_wtcfe")
+
+[node name="Icon2" type="Sprite2D" parent="." unique_id=1147825017]
+position = Vector2(247, 14)
+texture = ExtResource("1_wtcfe")
